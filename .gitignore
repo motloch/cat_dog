@@ -1,0 +1,5 @@
+# Do not track the final fastai model
+model.pkl
+
+# Do not track vim files 
+.*swp 
