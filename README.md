@@ -1,3 +1,4 @@
 # cat_dog
-1) script training a simple cat-dog classifier using fastai
-2) simple django website allowing an user access to the trained model
+A simple Django website that classifies an image updated by a user as a cat or dog.
+
+Includes the fastai script training the underlying classifier, based on ResNet
